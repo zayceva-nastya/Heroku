@@ -9,26 +9,25 @@
         body {
             background-color: yellowgreen;
         }
-
-        h1 {
-            text-align: center;
-            color: pink;
-        }
-        table tr td{
+      
+        table tr td {
             padding: 10px;
-            color: red;
+            color: white;
             background-color: orange;
         }
-        table{
+
+        table {
             border: 3px solid green;
         }
     </style>
 </head>
 
 <body>
-    <h1>Don't worry, be happy!</h1>
-  
+ 
+
     <?php
+
+    //https://github.com/zayceva-nastya/Heroku
 
     // Username: byXdqX8acm
     // Database name: byXdqX8acm
