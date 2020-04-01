@@ -6,11 +6,21 @@
     <title>Document</title>
     <style>
     body{
-        background-color: red;
+        background-color: yellowgreen;
+    }
+    h1{
+        text-align: center;
     }
     </style>
 </head>
 <body>
     <h1>Don't worry, be happy!</h1>
+    <?php
+for($i=1;$i<=10;$i++){
+    echo $i."<br>";
+}
+
+
+    ?>
 </body>
 </html>
