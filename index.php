@@ -15,5 +15,12 @@
 </head>
 <body>
     <h1>Don't worry, be happy!</h1>
+    <?php
+for($i=1;$i<=10;$i++){
+    echo $i."<br>";
+}
+
+
+    ?>
 </body>
 </html>
