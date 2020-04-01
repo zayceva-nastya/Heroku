@@ -6,7 +6,10 @@
     <title>Document</title>
     <style>
     body{
-        background-color: red;
+        background-color: yellowgreen;
+    }
+    h1{
+        text-align: center;
     }
     </style>
 </head>
