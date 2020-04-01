@@ -12,19 +12,22 @@
 
         h1 {
             text-align: center;
+            color: pink;
+        }
+        table tr td{
+            padding: 10px;
+            color: red;
+            background-color: orange;
+        }
+        table{
+            border: 3px solid green;
         }
     </style>
 </head>
 
 <body>
     <h1>Don't worry, be happy!</h1>
-    <?php
-    for ($i = 1; $i <= 10; $i++) {
-        echo $i . "<br>";
-    }
-
-
-    ?>
+  
     <?php
 
     // Username: byXdqX8acm
